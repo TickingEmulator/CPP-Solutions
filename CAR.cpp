@@ -22,5 +22,10 @@ int main()
         t >> rrr;
     }
     std::cout << c + a + r;
+	// More efficient process:
+	/*
+ 	555/3 = 185
+  	1 + 8 + 5 = 14
+		*/
 	return 0;
 }
